@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 70 70" style="enable-background:new 0 0 70 70;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:url(#SVGID_1_);stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:url(#SVGID_00000117648718661338696630000017844774552092732049_);stroke-width:3;stroke-miterlimit:10;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-8.7998" y1="2.5763" x2="32.87" y2="2.5763" gradientTransform="matrix(0.5 -0.866 -0.866 -0.5 26.386 45.015)">
+	<stop  offset="1.398057e-07" style="stop-color:#3498DB"/>
+	<stop  offset="8.409511e-02" style="stop-color:#3D92DE"/>
+	<stop  offset="0.2239" style="stop-color:#5780E7"/>
+	<stop  offset="0.4011" style="stop-color:#8064F6"/>
+	<stop  offset="0.5" style="stop-color:#9A52FF"/>
+	<stop  offset="0.9944" style="stop-color:#B97FC5"/>
+</linearGradient>
+<path class="st0" d="M17.3,24.2L34,31.9c0.4,0.2,0.8,0.2,1.2,0l16.7-7.7c1.6-0.7,2.9,1.5,1.4,2.5l-15,10.6c-0.3,0.2-0.6,0.6-0.6,1
+	L36,56.6c-0.2,1.8-2.7,1.8-2.9,0l-1.7-18.3c0-0.4-0.3-0.8-0.6-1l-15-10.6C14.5,25.7,15.7,23.5,17.3,24.2z"/>
+<linearGradient id="SVGID_00000177466288253824879950000005173982959017454235_" gradientUnits="userSpaceOnUse" x1="23.6418" y1="58.6056" x2="65.322" y2="58.6056" gradientTransform="matrix(1 0 0 -1 -9.6553 89.3402)">
+	<stop  offset="1.398057e-07" style="stop-color:#3498DB"/>
+	<stop  offset="8.409511e-02" style="stop-color:#3D92DE"/>
+	<stop  offset="0.2239" style="stop-color:#5780E7"/>
+	<stop  offset="0.4011" style="stop-color:#8064F6"/>
+	<stop  offset="0.5" style="stop-color:#9A52FF"/>
+	<stop  offset="0.9944" style="stop-color:#B97FC5"/>
+</linearGradient>
+<path style="fill:none;stroke:url(#SVGID_00000177466288253824879950000005173982959017454235_);stroke-width:3;stroke-miterlimit:10;" d="
+	M36.2,15.1l1.7,18.3c0,0.4,0.3,0.8,0.6,1l15,10.6c1.4,1,0.2,3.2-1.4,2.5l-16.7-7.7c-0.4-0.2-0.8-0.2-1.2,0l-16.7,7.7
+	c-1.6,0.7-2.9-1.5-1.4-2.5l15-10.6c0.3-0.2,0.6-0.6,0.6-1l1.7-18.3C33.5,13.4,36.1,13.4,36.2,15.1z"/>
+</svg>
